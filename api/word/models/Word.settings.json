@@ -1,0 +1,29 @@
+{
+  "connection": "default",
+  "collectionName": "",
+  "info": {
+    "name": "word",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "english": {
+      "default": "",
+      "type": "string"
+    },
+    "spanish": {
+      "default": "",
+      "type": "string"
+    },
+    "description_es": {
+      "default": "",
+      "type": "text"
+    },
+    "description_en": {
+      "default": "",
+      "type": "text"
+    }
+  }
+}
